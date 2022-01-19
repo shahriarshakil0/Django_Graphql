@@ -1,5 +1,4 @@
 # Django_Graphql
-# Blog_app_Django
 ## create virtual environment
 ```
 python3 -m venv venv
